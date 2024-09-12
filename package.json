@@ -1,0 +1,15 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "vite",
+        "build": "vite build",
+        "prettier:check": "npx prettier --check resources/",
+        "prettier:write": "npx prettier --write resources/"
+    },
+    "devDependencies": {
+    },
+    "dependencies": {
+    }
+}
