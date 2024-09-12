@@ -25,17 +25,6 @@ A Laravel package that brings powerful reviewing functionality to your apps 😍
 
 ## Key Features
 
-- ❤️ Simple, modern, and user-friendly interfaces.
-- 📱 Mobile responsiveness.
-- 🔒 Robust security features.
-- 🔑 Effective spam prevention.
-- 🔢 Pagination.
-- 🔍 Advanced filtering and sorting options.
-- 🥰 Responsive design using a vue.js.
-- 🚀 Optimized performance.
-And much more.
-
-
 ## Demo
 
 ### Project
