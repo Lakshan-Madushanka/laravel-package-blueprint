@@ -23,7 +23,7 @@
         "larastan/larastan": "^2.9",
         "orchestra/testbench": "8.*",
         "pestphp/pest": "^2.34",
-        "pestphp/pest-plugin-laravel": "^2.3",
+        "pestphp/pest-plugin-laravel": "^2.3"
     },
     "extra": {
         "laravel": {
