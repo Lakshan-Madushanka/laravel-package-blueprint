@@ -1,9 +1,8 @@
 <?php
 
-namespace LakM\Comments\Tests;
+namespace LakM\Tests;
 
 use Illuminate\Database\Schema\Blueprint;
-use Illuminate\Support\Facades\Schema;
 
 abstract class TestCase extends \Orchestra\Testbench\TestCase
 {
